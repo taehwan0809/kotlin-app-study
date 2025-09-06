@@ -38,7 +38,6 @@ private fun ModifierExample(){
            .clip(RoundedCornerShape(0.dp))
            .background(Color.Black)
            .clickable { },
-       onClick = {}
        )
 
    }
